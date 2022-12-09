@@ -1,0 +1,93 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon";
+  src: url("flaticon632a.ttf?ad34105d110667495f3c0c924155b776") format("truetype"), url("flaticon632a.woff?ad34105d110667495f3c0c924155b776") format("woff"), url("flaticon632a.woff2?ad34105d110667495f3c0c924155b776") format("woff2"), url("flaticon632a.eot?ad34105d110667495f3c0c924155b776#iefix") format("embedded-opentype"), url("flaticon632a.svg?ad34105d110667495f3c0c924155b776#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-construction:before {
+  content: "";
+}
+
+.flaticon-engineer:before {
+  content: "";
+}
+
+.flaticon-valve:before {
+  content: "";
+}
+
+.flaticon-engineer-1:before {
+  content: "";
+}
+
+.flaticon-plan:before {
+  content: "";
+}
+
+.flaticon-building:before {
+  content: "";
+}
+
+.flaticon-play-button:before {
+  content: "";
+}
+
+.flaticon-renovation:before {
+  content: "";
+}
+
+.flaticon-quote:before {
+  content: "";
+}
+
+.flaticon-smartphone:before {
+  content: "";
+}
+
+.flaticon-location:before {
+  content: "";
+}
+
+.flaticon-right-quote:before {
+  content: "";
+}
+
+.flaticon-phone-call:before {
+  content: "";
+}
+
+.flaticon-email:before {
+  content: "";
+}
+
+.flaticon-address:before {
+  content: "";
+}
+
+.flaticon-headset:before {
+  content: "";
+}
+
+.flaticon-under-construction:before {
+  content: "";
+}
+
+.flaticon-excavator:before {
+  content: "";
+}
+
+.flaticon-plus:before {
+  content: "";
+}
+/*# sourceMappingURL=flaticon.css.map */
